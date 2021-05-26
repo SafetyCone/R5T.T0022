@@ -1,0 +1,2 @@
+# R5T.T0022
+ConfigurationSectionNames instance for use as extension methods base.
